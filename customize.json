@@ -1,0 +1,23 @@
+{
+  "greeting": "Hii",
+  "name": "Jasmine",
+  "greetingText": "I really like your name btw!",
+  "wishText": "May the Happy isotopes always be with you! ;)",
+  "imagePath": "img/jazz3.jpeg",
+  "text1": "It's your birthday!!! :D",
+  "textInChatBox": "Happy birthday to you!! Yeee! Many many happy blah...",
+  "sendButtonLabel": "Send",
+  "text2": "That's what I was going to do.",
+  "text3": "But then I stopped.",
+  "text4": "I realised, I wanted to do something",
+  "text4Adjective": "special",
+  "text5Entry": "Because,",
+  "text5Content": "I dont no",
+  "smiley": ":)",
+  "bigTextPart1": "S",
+  "bigTextPart2": "O",
+  "wishHeading": "Many Many happy returns of the day!",
+  "outroText": "Okay, now come back and tell me if you liked it.",
+  "replayText": "Or click, if you want to watch it again.",
+  "outroSmiley": ":)"
+}
